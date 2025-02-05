@@ -1,4 +1,4 @@
-# Hola my brudda's, 👋 I'm bernie!!! 
+# Hola 👋, I'm bernie!!! 
 I'm an epic programmer who has a focus on embedded systems and software development.
 
 # 💻 Tech Stack:
